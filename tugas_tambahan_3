@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Harmony Music Festival</title>
+</head>
+<body>
+    <h1>Harmony Music Festival</h1>
+    
+    <p>
+        <a href="home.html">Home</a> 
+        <a href="lineup.html">Line Up</a> 
+        <a href="tickets.html">Tickets</a> 
+        <a href="contact.html">Contact</a>
+    </p>
+
+    <h2>Feel the Rhythm of Life</h2>
+
+    <p>
+        Harmony Music Festival menghadirkan pengalaman musik terbaik dari berbagai genre, 
+        mulai dari pop, rock, jazz, hingga EDM. Nikmati pertunjukan spektakuler dari musisi lokal 
+        maupun internasional dengan panggung megah dan tata cahaya yang memukau.
+    </p>
+
+    <ul>
+        <li>Rasakan vibes seru dari live performance artis favorit</li>
+        <li>Ikuti workshop musik interaktif dengan musisi profesional</li>
+        <li>Jelajahi food court dengan berbagai kuliner kekinian</li>
+        <li>Temukan merchandise eksklusif festival</li>
+        <li>Nikmati malam penuh musik dengan pemandangan indah</li>
+    </ul>
+
+    <p>
+        Harmony Music Festival<br>
+        123 Harmony Street<br>
+        Surabaya, Jawa Timur 60123
+    </p>
+
+    <p>
+        0812-3456-7890
+    </p>
+
+    <p>
+        <small>Copyright © 2025 Harmony Music Festival</small><br>
+        <a href="mailto:info@harmonymusicfest.com">info@harmonymusicfest.com</a>
+    </p>
+</body>
+</html>
