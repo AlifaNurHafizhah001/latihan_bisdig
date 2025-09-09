@@ -2,10 +2,24 @@ h1 {
   color: red;
   text-align: center;
   font size: 8pt
-  }
+}
 
-  #page-container {
+#page-container {
     width: 760px;
     margin: auto;
     background: red;
+}
+
+#header {
+    background: blue;
+    height: 150px;
+}
+
+#content {
+    background: green;
+}
+
+#footer {
+    background: orange;
+    height: 66px;
 }
