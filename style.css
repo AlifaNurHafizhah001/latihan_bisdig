@@ -38,6 +38,7 @@ h1 {
 #main-nav a:hover{color: #db6d16;}
 
 #footer {
+    Clear:both;
     height: 70px;
     font-family: Tahoma, Arial, Helvetica, Sans-serif;
     font-size: 10px;
@@ -70,4 +71,6 @@ h1 {
 #side-bar{
     background:rgba(56, 3, 230, 0.4)
     00; float:right;
-    width:150px;}
+    width:150px;
+    height: 200px;
+}
